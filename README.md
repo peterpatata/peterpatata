@@ -5,7 +5,7 @@ I’m interested in Software Quality Assurance, Cloud technologies, and Design. 
 💞️ I’m on the look out for entry-level jobs that align with my fields of interest if you have the time and know any job openings please don't hesitate to contact me ;) 
 
 📫 Contacting me :
-You can reach me by email at jpk4th99@gmail.com
+You can reach me by email at jpk.ricamara1@gmail.com
 
 <!---
 peterpatata/peterpatata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
