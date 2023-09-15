@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @peterpatata
-- 👀 I’m interested in Software Quality Assurance, Cloud technologies, and Design. I'm still new and learning so please be nice to me ;) 
-- 🌱 I’m currently learning python, java, C, C# and .NET
-- 💞️ I’m looking for entry-level jobs that align with my fields of interest :)
-- 📫 You can reach me by email jpk4th99@gmail.com
+👋 Hi, I’m @peterpatata
+I’m interested in Software Quality Assurance, Cloud technologies, and Design. I just graduated BS in Information Technology so I'm still new and learning, please be nice to me 🙏
+
+🧐 I’m currently learning python, java, C, C# and .NET
+💞️ I’m on the look out for entry-level jobs that align with my fields of interest if you have the time and know any job openings please don't hesitate to contact me ;) 
+
+📫 Contacting me :
+You can reach me by email at jpk4th99@gmail.com
 
 <!---
 peterpatata/peterpatata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
